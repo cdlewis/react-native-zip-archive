@@ -1,14 +1,14 @@
 {
-  "name": "react-native-zip-archive",
+  "name": "react-native-zip-archive-stable",
   "version": "0.1.0",
-  "description": "A little wrapper on ZipArchive for react-native",
+  "description": "A clone of react-native-zip-archive that follows semantic versioning",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:plrthink/react-native-zip-archive.git"
+    "url": "git@github.com:cdlewis/react-native-zip-archive.git"
   },
   "keywords": [
     "react-component",
